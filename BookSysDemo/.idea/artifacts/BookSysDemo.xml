@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="BookSysDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookSysDemo</output-path>
+    <root id="root">
+      <element id="archive" name="BookSysDemo.jar">
+        <element id="module-output" name="BookSysDemo" />
+        <element id="library" level="project" name="Maven: ojdbc:ojdbc:14" />
+      </element>
+      <element id="library" level="project" name="Maven: ojdbc:ojdbc:14" />
+    </root>
+  </artifact>
+</component>
